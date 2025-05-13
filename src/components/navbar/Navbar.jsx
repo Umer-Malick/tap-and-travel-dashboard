@@ -27,7 +27,7 @@ const Navbar = () => {
 
   const commonItems = [
     { to: "/", icon: IoMdHome, label: "Dashboard" },
-    { to: "/", icon: GiTeamUpgrade, label: "Teams" },
+    // { to: "/", icon: GiTeamUpgrade, label: "Teams" },
   ];
 
   const adminItems = [
